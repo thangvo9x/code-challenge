@@ -1,0 +1,2 @@
+export const getTokenIcon = (symbol: string) =>
+    `https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/${symbol}.svg`;

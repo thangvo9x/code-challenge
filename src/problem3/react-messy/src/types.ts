@@ -1,0 +1,1 @@
+export const API_PRICE_URL = "https://interview.switcheo.com/prices.json";
